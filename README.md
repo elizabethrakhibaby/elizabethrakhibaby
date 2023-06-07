@@ -19,9 +19,11 @@ Hi, I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 
 <details>
 <summary>Tech Stack</summary>
-s
-| Java|
-| JavaScript    |
+
+|-----|
+|     1| 
+|     2| 
+|     3| 
 
 
 </details>
