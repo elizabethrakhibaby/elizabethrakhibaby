@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> What would life be if we had no courage to attempt anything?
 
-— Mona the Octocat
+— Vincent Van Gogh
