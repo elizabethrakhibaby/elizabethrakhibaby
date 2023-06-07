@@ -21,6 +21,7 @@ Hi, I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 <summary>Tech Stack</summary>
 
 |:)|
+|-----------|
 |     1| 
 |     2| 
 |     3| 
