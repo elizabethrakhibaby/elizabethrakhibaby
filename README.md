@@ -15,7 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi, I'm Elizabeth. I am a Information Systems undergraduate at NUS!
+
+<details>
+<summary>My top languages</summary>
+
+| Languages |
+|-----------|
+| Java|
+| JavaScript    |
+
+
+</details>
+
+
 ---
 > What would life be if we had no courage to attempt anything?
 
-— Vincent Van Gogh
+— Vincent van Gogh
