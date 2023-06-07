@@ -15,20 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Elizabeth. I am a Information Systems undergraduate at NUS!
-
-<details>
-<summary>Tech Stack</summary>
-
-|:)|
-|-----------|
-|     1| 
-|     2| 
-|     3| 
-
-
-</details>
-
+I'm Elizabeth. I am a Information Systems undergraduate at NUS!
+🔭 I’m currently working on cross-platform app development using React Native & Javascript
+🌱 I’m currently learning SQL
+👯 I’m looking to collaborate on web app projects
 
 ---
 > What would life be if we had no courage to attempt anything?
