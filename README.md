@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 Hi, I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 
 <details>
-<summary>My top languages</summary>
-
-| Languages |
-|-----------|
+<summary>Tech Stack</summary>
+s
 | Java|
 | JavaScript    |
 
