@@ -25,7 +25,7 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 <!-- Details about me :) themes: cobalt, dracula, radical, tokyonight-->
 <p align="center">
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=radical" width="900" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=radical" width="800" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&card_width=338&theme=radical" width="400"/>
@@ -34,13 +34,13 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizabethrakhibaby&theme=radical" width="400" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizabethrakhibaby&theme=radical&card_width=450" width="450" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizabethrakhibaby&theme=radical&card_width=450" width="400" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizabethrakhibaby&theme=radical&utcOffset=8&card_width=450" width="450" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizabethrakhibaby&theme=radical&utcOffset=8&card_width=450" width="400" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" width="900" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" width="800" />
   </a>
 </p>
 
