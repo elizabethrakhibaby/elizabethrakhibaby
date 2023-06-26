@@ -8,7 +8,7 @@
           Open to collaborating on web app projects.<br>
         </i><br>
 
-    <a href="#">
+<a href="#">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="pointer-events: none; cursor: default;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="pointer-events: none; cursor: default;">
 </a>
