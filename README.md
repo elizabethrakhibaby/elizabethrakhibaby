@@ -1,5 +1,8 @@
 ### Hi there 🥂
 
+
+![emoji](clinking-glasses_1f942.gif)
+
 <!--
 **elizabethrakhibaby/elizabethrakhibaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
