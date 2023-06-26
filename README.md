@@ -40,6 +40,7 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 
 ---
 > What would life be if we had no courage to attempt anything?
+
 — Vincent van Gogh
 
 
