@@ -3,7 +3,7 @@
 <p align="center">
         <b>I'm Elizabeth</b><br><br>
         <i>
-          I am an Information Systems undergraduate at NUS!
+          I am an Information Systems undergraduate at NUS!<br>
           Currently working on cross-platform app development using React Native & Javascript.<br>
           Open to collaborating on web app projects.<br>
         </i><br>
