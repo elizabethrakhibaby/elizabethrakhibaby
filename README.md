@@ -28,7 +28,7 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 <!-- Details about me :) -->
 <p align="center">
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=jolly" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&card_width=338&theme=transparent" />
