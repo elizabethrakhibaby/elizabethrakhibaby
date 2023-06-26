@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! <img src="clinking-glasses_1f942.gif" alt="👋" width="32" height="32"></h1>
+<h1 align="center">Hi there! <img src="assets/clinking-glasses_1f942.gif" alt="👋" width="32" height="32"></h1>
 
 <!--
 **elizabethrakhibaby/elizabethrakhibaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
