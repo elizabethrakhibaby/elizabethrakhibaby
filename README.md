@@ -39,7 +39,11 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
     <a href="https://github.com/elizabethrakhibaby">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizabethrakhibaby&theme=radical" />
   </a>
+      <a href="https://github.com/elizabethrakhibaby">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizabethrakhibaby&theme=tokyonight&utcOffset=8" />
+  </a>
 </p>
+
 
 ---
 > What would life be if we had no courage to attempt anything?
