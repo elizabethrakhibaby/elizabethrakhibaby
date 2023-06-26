@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! <img src="assets/clinking-glasses_1f942.gif" alt="👋" width="32" height="32"></h1>
     
 <p align="center">
-        <b>I'm Elizabeth</b><br><br>
+        <b>I am Elizabeth</b><br><br>
         <i>
-          I am an Information Systems undergraduate at NUS!<br>
+          I'm an Information Systems undergraduate at NUS!<br>
           Currently working on cross-platform app development using React Native & Javascript.<br>
           Open to collaborating on web app projects.<br>
         </i><br>
