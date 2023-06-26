@@ -1,11 +1,11 @@
 ### Hi there 🥂
 
+<img src="clinking-glasses_1f942.gif" alt="emoji" width="32" height="32">
 
-![emoji](clinking-glasses_1f942.gif)
 
 <!--
 **elizabethrakhibaby/elizabethrakhibaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![emoji](clinking-glasses_1f942.gif)
 Here are some ideas to get you started:
 I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 - 🔭 I’m currently working on cross-platform app development using React Native & Javascript
