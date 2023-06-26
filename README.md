@@ -20,10 +20,7 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 - 🌱 I’m currently learning SQL
 - 🧇 I’m looking to collaborate on web app projects
 
----
-> What would life be if we had no courage to attempt anything?
 
-— Vincent van Gogh
 
 <!-- Details about me :) -->
 <p align="center">
@@ -42,11 +39,9 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 </p>
 
 ---
-<p align="center">
-  > What would life be if we had no courage to attempt anything?
-
+> What would life be if we had no courage to attempt anything?
 — Vincent van Gogh
-</p>
+
 
 <!-- Profile View Counter-->
 <p align="center">
