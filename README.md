@@ -25,7 +25,7 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 
 — Vincent van Gogh
 
-
+<!-- Details about me :) -->
 <p align="center">
   <a href="https://github.com/elizabethrakhibaby">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=transparent" />
@@ -40,9 +40,6 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
-
-
-
 
 <!-- Profile View Counter-->
 <p align="center">
