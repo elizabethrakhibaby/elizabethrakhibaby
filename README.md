@@ -41,6 +41,13 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
   </a>
 </p>
 
+---
+<p align="center">
+  > What would life be if we had no courage to attempt anything?
+
+— Vincent van Gogh
+</p>
+
 <!-- Profile View Counter-->
 <p align="center">
   <a href="https://github.com/elizabethrakhibaby">
