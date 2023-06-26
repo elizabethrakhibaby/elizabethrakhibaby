@@ -41,11 +41,11 @@
     
     
 <!-- Profile View Counter-->
-    <p align="center">
+<p align="center">
       <a href="https://github.com/elizabethrakhibaby">
         <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat)" />
       </a>
-    </p>
+</p>
   
   
   
