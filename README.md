@@ -44,7 +44,7 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
 
 
 
-
+<!-- Profile View Counter-->
 <p align="center">
   <a href="https://github.com/elizabethrakhibaby">
     <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat)" />
