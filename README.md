@@ -9,9 +9,10 @@
         </i><br>
 </p> 
 
-<span style="pointer-events: none;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">
-</span>
+<a href="#">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" style="pointer-events: none; cursor: default;">
+</a>
+
 
     
     
