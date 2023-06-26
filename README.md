@@ -10,10 +10,10 @@
 </p> 
     
     
-    <!-- Details about me :) themes: cobalt, dracula, radical, tokyonight-->
+<!-- Details about me :) themes: cobalt, dracula, radical, tokyonight-->
     
-    <p align="center">
-      <a href="https://github.com/elizabethrakhibaby">
+<p align="center">
+    <a href="https://github.com/elizabethrakhibaby">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=radical" width="800" />
       </a>
       <a href="https://github.com/elizabethrakhibaby">
@@ -31,16 +31,16 @@
       <a href="https://github.com/elizabethrakhibaby">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" width="800" />
       </a>
-    </p>
+</p>
     
     
-    ---
-    > What would life be if we had no courage to attempt anything?
+---
+> What would life be if we had no courage to attempt anything?
+
+— Vincent van Gogh
     
-    — Vincent van Gogh
     
-    
-    <!-- Profile View Counter-->
+<!-- Profile View Counter-->
     <p align="center">
       <a href="https://github.com/elizabethrakhibaby">
         <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat)" />
@@ -49,7 +49,7 @@
   
   
   
-    <!-- 
+<!-- 
     
       **elizabethrakhibaby/elizabethrakhibaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     ![emoji](clinking-glasses_1f942.gif)
@@ -69,4 +69,4 @@
     - ⚡ Fun fact: ...
    
     
-    -->
+-->
