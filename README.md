@@ -28,13 +28,13 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=tokyonight" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&card_width=338&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&card_width=338&theme=tokyonight" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizabethrakhibaby&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizabethrakhibaby&theme=tokyonight" />
   </a>
   <a href="https://github.com/elizabethrakhibaby">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=tokyonight" />
   </a>
 </p>
 
