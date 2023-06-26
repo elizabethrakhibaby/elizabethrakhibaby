@@ -34,10 +34,10 @@ I'm Elizabeth. I am a Information Systems undergraduate at NUS!
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizabethrakhibaby&theme=radical" />
   </a>
     <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizabethrakhibaby&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizabethrakhibaby&theme=radical&card_width=450" />
   </a>
       <a href="https://github.com/elizabethrakhibaby">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizabethrakhibaby&theme=radical&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizabethrakhibaby&theme=radical&utcOffset=8&card_width=450" />
   </a>
     <a href="https://github.com/elizabethrakhibaby">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" />
