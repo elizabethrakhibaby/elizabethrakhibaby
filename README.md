@@ -5,7 +5,7 @@
         <i>
           I'm an Information Systems undergraduate at NUS!<br>
           Currently working on cross-platform app development using React Native & Javascript.<br>
-          Open to collaborating on web app projects.<br>
+          Open to collaborating on app projects.<br>
         </i><br>
 </p> 
 
