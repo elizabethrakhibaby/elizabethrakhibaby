@@ -3,9 +3,9 @@
 <p align="center">
         <b>I am Elizabeth 😊</b><br><br>
         <i>
-          I'm an Information Systems undergraduate at NUS!<br>
-          Currently working on cross-platform app development using React Native & Javascript.<br>
-          Open to collaborating on app projects.<br>
+          I'm a Penultimate Information Systems Undergraduate at National University of Singapore!<br>
+          Exploring possibilities of cloud computing in improving operational efficiencies.<br>
+          Open to conversations and collaborations on innovative projects :) <br>
         </i><br>
 </p> 
 
