@@ -3,7 +3,7 @@
 <p align="center">
         <b>I am Elizabeth 😊</b><br><br>
         <i>
-          I'm a Penultimate Information Systems Undergraduate at National University of Singapore!<br>
+          I'm a Final Year Information Systems Undergraduate at National University of Singapore!<br>
           Exploring possibilities of cloud computing in improving operational efficiencies.<br>
           Open to conversations and collaborations on innovative projects :) <br>
         </i><br>
