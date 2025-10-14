@@ -24,12 +24,34 @@
 ---
 
 ### 🧠 Technical Skills
-**Languages:** Python, Java, JavaScript, TypeScript, SQL, R, Solidity  
-**Frameworks & Libraries:** React, React Native, Node.js, Bootstrap, LangGraph/LangChain, Streamlit, Java EE, JSP  
-**Databases:** MySQL, Redis, Elasticsearch, Supabase  
-**Tools & DevOps:** Git, GitHub, Bitbucket, Docker, Vercel, Expo Go, Google Cloud Platform (GCP)  
-**Data Visualization:** Tableau, Power BI  
-**Testing:** Jest, Truffle Test  
+
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python, Java, JavaScript, TypeScript, SQL, R, Solidity</td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Libraries</b></td>
+    <td>React, React Native, Node.js, Bootstrap, LangGraph/LangChain, Streamlit, Java EE, JSP</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL, Redis, Elasticsearch, Supabase</td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>Git, GitHub, Bitbucket, Docker, Vercel, Expo Go, Google Cloud Platform (GCP)</td>
+  </tr>
+  <tr>
+    <td><b>Data Visualization</b></td>
+    <td>Tableau, Power BI</td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>Jest, Truffle Test</td>
+  </tr>
+</table>
+
 
 ---
 
