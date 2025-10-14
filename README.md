@@ -1,85 +1,97 @@
 <h1 align="center">Hi there! <img src="assets/clinking-glasses_1f942.gif" alt="👋" width="32" height="32"></h1>
-    
-<p align="center">
-        <b>I am Elizabeth 😊</b><br><br>
-        <i>
-          I'm a Final Year Information Systems Undergraduate at National University of Singapore!<br>
-          Exploring possibilities of cloud computing in improving operational efficiencies.<br>
-          Open to conversations and collaborations on innovative projects :) <br>
-        </i><br>
-</p> 
 
 <p align="center">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
+  <b>I am Elizabeth 😊</b><br><br>
+  <i>
+    Final Year Information Systems Undergraduate at the National University of Singapore (NUS)<br>
+    Passionate about software engineering, cloud computing, and building scalable digital solutions.<br>
+    Exploring how technology enhances operational efficiency and sustainability.<br>
+    Open to collaborations on creative and impactful projects 🚀<br>
+  </i><br>
+</p>
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/></a>
+  <a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
 </p>
 
 
-    
-    
-<!-- Details about me :) themes: cobalt, dracula, radical, tokyonight-->
-<details>  
-<p align="center">
-    <a href="https://github.com/elizabethrakhibaby">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elizabethrakhibaby&theme=radical" width="800" />
-      </a>
-      <a href="https://github.com/elizabethrakhibaby">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&card_width=338&theme=radical" width="400"/>
-      </a>
-      <a href="https://github.com/elizabethrakhibaby">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elizabethrakhibaby&theme=radical" width="400" />
-      </a>
-      <a href="https://github.com/elizabethrakhibaby">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elizabethrakhibaby&theme=radical&card_width=450" width="400" />
-      </a>
-      <a href="https://github.com/elizabethrakhibaby">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elizabethrakhibaby&theme=radical&utcOffset=8&card_width=450" width="400" />
-      </a>
-      <a href="https://github.com/elizabethrakhibaby">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" width="800" />
-      </a>
-</p>
-</details>
-    
+### 🗓️ Career Timeline
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <p><b style="color:#b088ff;">May–Jul 2025</b><br>🟣 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🟠 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <p><b style="color:#ffffff;">2022–Present</b><br>⚪ <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
+    </td>
+  </tr>
+</table>
+
 ---
-> What would life be if we had no courage to attempt anything?
 
-— Vincent van Gogh
-    
-    
-<!-- Profile View Counter-->
+### 🧠 Technical Skills
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, R, Solidity  
+**Frameworks & Libraries:** React, React Native, Node.js, Bootstrap, LangGraph/LangChain, Streamlit, Java EE, JSP  
+**Databases:** MySQL, Redis, Elasticsearch, Supabase  
+**Tools & DevOps:** Git, GitHub, Bitbucket, Docker, Vercel, Expo Go, Google Cloud Platform (GCP)  
+**Data Visualization:** Tableau, Power BI  
+**Testing:** Jest, Truffle Test  
+
+---
+
+### 💻 Featured Projects
+
+**[Treasure Chope](https://treasure-chope.firebaseapp.com/)**  
+> A scalable React web app connecting restaurants with surplus food to consumers.  
+> Features Firebase Authentication, Redux state management, and CI/CD pipelines.
+
+**[Carbon Credit Tokens](https://github.com/elizabethrakhibaby/CarbonCreditTokens)**  
+> Smart contracts in Solidity to manage the lifecycle of carbon credit tokens (creation, transfer, retirement).  
+> Built using Truffle, Ganache, and automated testing with `truffle test`.
+
+**[Event Echo](https://github.com/elizabethrakhibaby/EventEcho)**  
+> An event management system using Java EE backend and React frontend integration.  
+> Demonstrates full-stack development, RESTful APIs, and modern UI/UX.
+
+---
+
+### 🌍 Let’s Connect!
 <p align="center">
-      <a href="https://github.com/elizabethrakhibaby">
-        <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat)" />
-      </a>
+  <a href="https://www.linkedin.com/in/elizabeth-rakhi-baby/"><img src="https://img.shields.io/badge/LinkedIn-Elizabeth%20Rakhi%20Baby-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/elizabethrakhibaby"><img src="https://img.shields.io/badge/GitHub-elizabethrakhibaby-black?style=flat&logo=github"></a>
 </p>
 
+### ⛰️ Life Motto
 
-  
-<!-- 
-    
-      **elizabethrakhibaby/elizabethrakhibaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    ![emoji](clinking-glasses_1f942.gif)
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    
-    ### Hi there 🥂
-    Here are some ideas to get you started:
-    I'm Elizabeth. I am a Information Systems undergraduate at NUS!
-    - 🔭 I’m currently working on cross-platform app development using React Native & Javascript
-    - 🌱 I’m currently learning SQL
-    - 🧇 I’m looking to collaborate on web app projects
-    - 🔭 I’m currently working on ...
-    - 🌱 I’m currently learning ...
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...
-   
-    
--->
+> “What would life be if we had no courage to attempt anything?”  
+> — *Vincent van Gogh*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat)" />
+</p>
