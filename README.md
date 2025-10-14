@@ -5,10 +5,9 @@
   <i>
     Final Year Information Systems Undergraduate at the National University of Singapore (NUS)<br>
     Passionate about software engineering, cloud computing, and building scalable digital solutions.<br>
-    Exploring how technology enhances operational efficiency and sustainability.<br>
-    Open to collaborations on creative and impactful projects 🚀<br>
   </i><br>
 </p>
+
 <p align="center">
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></a>
   <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></a>
@@ -22,37 +21,6 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/></a>
 </p>
 
-
-### 🗓️ Career Timeline
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <p><b style="color:#b088ff;">May–Jul 2025</b><br>🟣 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🟠 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <p><b style="color:#ffffff;">2022–Present</b><br>⚪ <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🧠 Technical Skills
@@ -63,24 +31,55 @@
 **Data Visualization:** Tableau, Power BI  
 **Testing:** Jest, Truffle Test  
 
-### My GitHub Contribution History
+---
+
+### 📊 YTD GitHub Contribution History
 
 ![Snake animation](https://github.com/elizabethrakhibaby/elizabethrakhibaby/blob/output/github-contribution-grid-snake.svg)
 
+<br>
 
-### 💻 Featured Projects
+<table>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="50%" valign="top">
 
-**[Treasure Chope](https://treasure-chope.firebaseapp.com/)**  
-> A scalable React web app connecting restaurants with surplus food to consumers.  
-> Features Firebase Authentication, Redux state management, and CI/CD pipelines.
+      <h3>🗓️ Career Timeline</h3>
 
-**[Carbon Credit Tokens](https://github.com/elizabethrakhibaby/CarbonCreditTokens)**  
-> Smart contracts in Solidity to manage the lifecycle of carbon credit tokens (creation, transfer, retirement).  
-> Built using Truffle, Ganache, and automated testing with `truffle test`.
+      <p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
+      <p><b style="color:#b088ff;">May–Jul 2025</b><br>🟣 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
+      <p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
+      <p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🟠 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
+      <p><b style="color:#ffffff;">2022–Present</b><br>⚪ <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
 
-**[Event Echo](https://github.com/elizabethrakhibaby/EventEcho)**  
-> An event management system using Java EE backend and React frontend integration.  
-> Demonstrates full-stack development, RESTful APIs, and modern UI/UX.
+    </td>
+
+    <!-- RIGHT COLUMN -->
+    <td width="50%" valign="top">
+
+      <h3>💻 Featured Projects</h3>
+
+      <p>
+        <b><a href="https://treasure-chope.firebaseapp.com/" target="_blank">Treasure Chope</a></b><br>
+        <i>A scalable React web app connecting restaurants with surplus food to consumers.</i><br>
+        Features Firebase Authentication, Redux state management, and CI/CD pipelines.
+      </p>
+
+      <p>
+        <b><a href="https://github.com/elizabethrakhibaby/CarbonCreditTokens" target="_blank">Carbon Credit Tokens</a></b><br>
+        <i>Smart contracts in Solidity to manage the lifecycle of carbon credit tokens.</i><br>
+        Built using Truffle, Ganache, and automated testing with <code>truffle test</code>.
+      </p>
+
+      <p>
+        <b><a href="https://github.com/elizabethrakhibaby/EventEcho" target="_blank">Event Echo</a></b><br>
+        <i>An event management system using Java EE backend and React frontend.</i><br>
+        Demonstrates full-stack development, RESTful APIs, and modern UI/UX.
+      </p>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,6 +88,8 @@
   <a href="https://www.linkedin.com/in/elizabeth-rakhi-baby/"><img src="https://img.shields.io/badge/LinkedIn-Elizabeth%20Rakhi%20Baby-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/elizabethrakhibaby"><img src="https://img.shields.io/badge/GitHub-elizabethrakhibaby-black?style=flat&logo=github"></a>
 </p>
+
+---
 
 ### ⛰️ Life Motto
 
