@@ -37,49 +37,47 @@
 
 ![Snake animation](https://github.com/elizabethrakhibaby/elizabethrakhibaby/blob/output/github-contribution-grid-snake.svg)
 
-<br>
+<!-- Add one blank line before and after HTML tables to ensure rendering -->
 
 <table>
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-      <h3>🗓️ Career Timeline</h3>
+<h3>🗓️ Career Timeline</h3>
 
-      <p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
-      <p><b style="color:#b088ff;">May–Jul 2025</b><br>🟣 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
-      <p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
-      <p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🟠 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
-      <p><b style="color:#ffffff;">2022–Present</b><br>⚪ <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
+<p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
+<p><b style="color:#b088ff;">May–Jul 2025</b><br>🟣 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
+<p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
+<p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🟠 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
+<p><b style="color:#ffffff;">2022–Present</b><br>⚪ <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
 
-    </td>
+</td>
+<td width="50%" valign="top">
 
-    <!-- RIGHT COLUMN -->
-    <td width="50%" valign="top">
+<h3>💻 Featured Projects</h3>
 
-      <h3>💻 Featured Projects</h3>
+<p>
+<b><a href="https://treasure-chope.firebaseapp.com/" target="_blank">Treasure Chope</a></b><br>
+<i>A scalable React web app connecting restaurants with surplus food to consumers.</i><br>
+Features Firebase Authentication, Redux state management, and CI/CD pipelines.
+</p>
 
-      <p>
-        <b><a href="https://treasure-chope.firebaseapp.com/" target="_blank">Treasure Chope</a></b><br>
-        <i>A scalable React web app connecting restaurants with surplus food to consumers.</i><br>
-        Features Firebase Authentication, Redux state management, and CI/CD pipelines.
-      </p>
+<p>
+<b><a href="https://github.com/elizabethrakhibaby/CarbonCreditTokens" target="_blank">Carbon Credit Tokens</a></b><br>
+<i>Smart contracts in Solidity to manage the lifecycle of carbon credit tokens.</i><br>
+Built using Truffle, Ganache, and automated testing with <code>truffle test</code>.
+</p>
 
-      <p>
-        <b><a href="https://github.com/elizabethrakhibaby/CarbonCreditTokens" target="_blank">Carbon Credit Tokens</a></b><br>
-        <i>Smart contracts in Solidity to manage the lifecycle of carbon credit tokens.</i><br>
-        Built using Truffle, Ganache, and automated testing with <code>truffle test</code>.
-      </p>
+<p>
+<b><a href="https://github.com/elizabethrakhibaby/EventEcho" target="_blank">Event Echo</a></b><br>
+<i>An event management system using Java EE backend and React frontend.</i><br>
+Demonstrates full-stack development, RESTful APIs, and modern UI/UX.
+</p>
 
-      <p>
-        <b><a href="https://github.com/elizabethrakhibaby/EventEcho" target="_blank">Event Echo</a></b><br>
-        <i>An event management system using Java EE backend and React frontend.</i><br>
-        Demonstrates full-stack development, RESTful APIs, and modern UI/UX.
-      </p>
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 ---
 
