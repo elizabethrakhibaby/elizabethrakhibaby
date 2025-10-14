@@ -63,7 +63,10 @@
 **Data Visualization:** Tableau, Power BI  
 **Testing:** Jest, Truffle Test  
 
----
+### My GitHub Contribution History
+
+![Snake animation](https://github.com/elizabethrakhibaby/elizabethrakhibaby/blob/output/github-contribution-grid-snake.svg)
+
 
 ### 💻 Featured Projects
 
