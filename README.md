@@ -38,23 +38,25 @@
 ![Snake animation](https://github.com/elizabethrakhibaby/elizabethrakhibaby/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Add one blank line before and after HTML tables to ensure rendering -->
+---
+### 🎯 At a Glance
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🗓️ Career Timeline</h3>
+<h3>Career Timeline</h3>
 
 <p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
-<p><b style="color:#b088ff;">May–Jul 2025</b><br>🟣 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
+<p><b style="color:#b088ff;">May–Jul 2025</b><br>🔵 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
 <p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
-<p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🟠 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
-<p><b style="color:#ffffff;">2022–Present</b><br>⚪ <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
+<p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🔵 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
+<p><b style="color:#ffffff;">2022–Present (Grad. May 2026) </b><br>🟠 <b>National University of Singapore</b><br><i>B.Comp (Hons) in Information Systems</i></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💻 Featured Projects</h3>
+<h3>Featured Projects</h3>
 
 <p>
 <b><a href="https://treasure-chope.firebaseapp.com/" target="_blank">Treasure Chope</a></b><br>
@@ -81,19 +83,13 @@ Demonstrates full-stack development, RESTful APIs, and modern UI/UX.
 
 ---
 
-### 🌍 Let’s Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/elizabeth-rakhi-baby/"><img src="https://img.shields.io/badge/LinkedIn-Elizabeth%20Rakhi%20Baby-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/elizabethrakhibaby"><img src="https://img.shields.io/badge/GitHub-elizabethrakhibaby-black?style=flat&logo=github"></a>
-</p>
-
----
-
 ### ⛰️ Life Motto
-
 > “What would life be if we had no courage to attempt anything?”  
 > — *Vincent van Gogh*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat)" />
+  <img src="https://komarev.com/ghpvc/?username=elizabethrakhibaby&color=blue&style=flat" />
 </p>
+
+
+
