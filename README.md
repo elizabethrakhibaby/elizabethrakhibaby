@@ -69,7 +69,7 @@
 
 <h3>Career Timeline</h3>
 
-<p><b style="color:#6be6ff;">2025–Present</b><br>🟢 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
+<p><b style="color:#6be6ff;">Jul–Dec 2025</b><br>🔵 <b>Amphitrite</b><br><i>Software Engineer Intern</i></p>
 <p><b style="color:#b088ff;">May–Jul 2025</b><br>🔵 <b>HSBC</b><br><i>GCIO Summer Analyst (Software Engineering)</i></p>
 <p><b style="color:#62c6ff;">Jan–Apr 2025</b><br>🔵 <b>Singapore Exchange (SGX)</b><br><i>Business Solutions Delivery Intern</i></p>
 <p><b style="color:#ffaa4f;">Jul–Dec 2024</b><br>🔵 <b>Knorex</b><br><i>Software Engineer Intern</i></p>
