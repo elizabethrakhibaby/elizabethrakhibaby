@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><b>Tools & DevOps</b></td>
-    <td>Git, GitHub, Bitbucket, Docker, Vercel, Expo Go, Google Cloud Platform (GCP)</td>
+    <td>Git, GitHub, Bitbucket, Docker, Vercel, Expo Go, Google Cloud Platform (GCP), Apache Airflow </td>
   </tr>
   <tr>
     <td><b>Data Visualization</b></td>
