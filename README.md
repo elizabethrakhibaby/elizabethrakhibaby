@@ -55,9 +55,17 @@
 
 ---
 
-### 📊 YTD GitHub Contribution History
+
+
+### 📊 GitHub Activity
 
 ![Snake animation](https://github.com/elizabethrakhibaby/elizabethrakhibaby/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=elizabethrakhibaby&show_icons=true&hide_border=true&count_private=true&theme=transparent)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&theme=transparent)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethrakhibaby&layout=compact&hide_border=true&theme=transparent)
 
 <!-- Add one blank line before and after HTML tables to ensure rendering -->
 ---
