@@ -64,7 +64,7 @@
 
 
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&theme=transparent"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethrakhibaby&hide_border=true&theme=transparent&cache_bust=1"/>
 
 <!-- Add one blank line before and after HTML tables to ensure rendering -->
 ---
